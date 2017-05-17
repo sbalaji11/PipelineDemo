@@ -1,4 +1,4 @@
-/* HelloWorld.java
+/* HelloWorld.java sample program
  */
 
 public class HelloWorld
